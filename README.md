@@ -1,12 +1,11 @@
 # FOSS_Trainee
 
-   Intro
-# <I'm <Kartik>😴
+## Intro:
+# I'm Kartik😴
 #  Student of IIITA
-# <BTech, IT first year
-# <Hometown: Samastipur, Bihar
+# BTech, IT first year
+# Hometown: Samastipur, Bihar
 
-# College <story😶: Kitkat toh gyi😭😭
+## College story😶: Kitkat toh gyi😭😭
 
-# Something <Funny: Engineering Physics Marks🥲
-
+## Something Funny: Engineering Physics Marks🥲
